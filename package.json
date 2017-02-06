@@ -22,6 +22,7 @@
   "homepage": "https://github.com/qweenwasabi/Benchmark-Goal-15-Coding-Exercises#readme",
   "devDependencies": {
     "chai": "^3.5.0",
+    "lodash": "^4.17.4",
     "mocha": "^3.2.0"
   },
   "dependencies": {
