@@ -1,8 +1,10 @@
-var_= require('lodash');
 var mocha = require('mocha');
+var
+var_= require('lodash');
 
-describe.only('generate random numbers between 1 and 100',function(){
-  it('a number between 1 and 100', function (){
+
+describe('generate random numbers between 1 and 100',function(){
+  it('if gues', function (){
 
   });
 });
