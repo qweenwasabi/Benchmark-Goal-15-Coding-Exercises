@@ -1,7 +1,8 @@
 var express = require('express');
 var app = express();
 var path = require('path');
-var GuessTheNumber = require('./lib/GuessTheNumber').guessTheNumber
+var GuessTheNumber = require('./lib/GuessTheNumber').guess
+
 
 
 app.use(express.static(path.join(__dirname, 'lib')));
