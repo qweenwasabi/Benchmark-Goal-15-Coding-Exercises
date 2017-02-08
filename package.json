@@ -1,0 +1,32 @@
+{
+  "name": "benchmark-goal-15-coding-exercises",
+  "version": "1.0.0",
+  "description": "Coding exercise to test skill level",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qweenwasabi/Benchmark-Goal-15-Coding-Exercises.git"
+  },
+  "keywords": [
+    "coding",
+    "exercises"
+  ],
+  "author": "Jacklyne Bouier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qweenwasabi/Benchmark-Goal-15-Coding-Exercises/issues"
+  },
+  "homepage": "https://github.com/qweenwasabi/Benchmark-Goal-15-Coding-Exercises#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "lodash": "^4.17.4",
+    "mocha": "^3.2.0"
+  },
+  "dependencies": {
+    "express": "^4.14.1",
+    "lodash": "^4.17.4"
+  }
+}
